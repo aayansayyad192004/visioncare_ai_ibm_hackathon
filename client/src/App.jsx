@@ -19,10 +19,10 @@ export default function App() {
         <Route path="/about" element={<About />} />
 
         {/* Protected Routes */}
-        <Route element={<PrivateRoute />}>
+        
           <Route path="/dashboard" element={<Dashboard />} />
           <Route path="/EyeHealthRemedies" element={<EyeHealthRemedies />} />
-          </Route>
+          
       </Routes>
     </BrowserRouter>
   );
