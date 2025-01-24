@@ -33,8 +33,4 @@ You can access the live project here:
 - **Enable Early Intervention**:  
   Offer timely remedies and nutrition to support early intervention and better eye health.
 
-## 🚀 Installation & Usage
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/aayansayyad192004/visioncarea_ai_ibm_hackathon.git
