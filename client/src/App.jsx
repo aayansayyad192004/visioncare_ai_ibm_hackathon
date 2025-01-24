@@ -3,7 +3,6 @@ import Home from './pages/Home';
 import About from './pages/About';
 
 import Header from './components/Header';
-import PrivateRoute from './components/PrivateRoute';
 import Dashboard from './pages/Dashboard';
 import EyeHealthRemedies from './pages/EyeHealthRemedies';
 
