@@ -1,7 +1,7 @@
 # 👁️ Visioncarea AI
 
 ## 🌟 Overview
-Visioncarea AI is an AI-powered platform revolutionizing eye care by providing early disease detection and facilitating remote consultations. Using advanced machine learning models, the platform empowers users to monitor eye health, get accurate predictions, and receive personalized remedies and nutrition recommendations based on symptoms.
+Visioncarea AI is an AI-powered platform revolutionizing eye care by providing early disease detection and facilitating remedies and nutrition recommendation. Using advanced machine learning models, the platform empowers users to monitor eye health, get accurate predictions, and receive personalized remedies and nutrition recommendations based on symptoms.
 
 ## 🔗 Project Link
 You can access the live project here:  
