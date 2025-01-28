@@ -5,7 +5,7 @@ Visioncarea AI is an AI-powered platform revolutionizing eye care by providing e
 
 ## 🔗 Project Link
 You can access the live project here:  
-[Visioncarea AI](https://visioncarea-ai-ibm-hackathon.onrender.com/)
+[VisionCare AI](https://visioncarea-ai-ibm-hackathon.onrender.com/)
 
 ## ✨ Key Features
 - **👁️ Eye Disease Prediction**:  
